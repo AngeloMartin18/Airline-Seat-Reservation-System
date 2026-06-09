@@ -1,0 +1,16 @@
+# Airline Seat Reservation Data
+# Format: row col passenger_name
+# Lines starting with # are comments
+
+1 A John Smith
+1 B Maria Garcia
+2 C James Wilson
+3 A Sarah Johnson
+4 D Robert Brown
+5 F Emily Davis
+7 B Michael Martinez
+8 E Jessica Taylor
+10 A David Anderson
+10 C Laura Thomas
+
+# End of file
