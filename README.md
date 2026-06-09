@@ -1,4 +1,4 @@
-# # ✈️ Airline Seat Reservation System
+ ✈️ Airline Seat Reservation System
 
 A console-based airline seat reservation system written in C++17. The project demonstrates core C++ concepts including dynamic memory allocation, object-oriented design, file I/O, and input validation.
 
